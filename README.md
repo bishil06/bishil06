@@ -1,4 +1,4 @@
-### Hi there 👋
+### 안녕하세요  👋
 
 <!--
 **bishil06/bishil06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# Contact
+
+* Email: bishil06@naver.com 
+* Blog: https://blog.naver.com/bishil06
+* Github: https://github.com/bishil06
+
